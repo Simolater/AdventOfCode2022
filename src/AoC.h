@@ -9,7 +9,7 @@
 
 namespace AoC {
 
-    constexpr std::size_t NUM_DAYS = 1;
+    constexpr std::size_t NUM_DAYS = 4;
 
     enum RunConfig {
         runA = 0b01,
