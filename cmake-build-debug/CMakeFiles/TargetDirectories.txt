@@ -1,3 +1,0 @@
-/cygdrive/c/Users/Simon/CLionProjects/AdventOfCode2022/cmake-build-debug/CMakeFiles/AdventOfCode.dir
-/cygdrive/c/Users/Simon/CLionProjects/AdventOfCode2022/cmake-build-debug/CMakeFiles/edit_cache.dir
-/cygdrive/c/Users/Simon/CLionProjects/AdventOfCode2022/cmake-build-debug/CMakeFiles/rebuild_cache.dir
